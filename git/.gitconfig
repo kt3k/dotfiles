@@ -1,0 +1,10 @@
+[alias]
+	st = status
+	ci = commit
+	l = log
+	d = diff
+	co = checkout
+	ps = push
+[user]
+	name = Yoshiya Hinosawa
+	email = stibium121@gmail.com
